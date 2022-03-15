@@ -1,6 +1,6 @@
-# [Cancer Dataset](https://drive.google.com/drive/u/0/folders/1RckOAqV-mExkvbyiuKut4fMr4zYB5aZm)
-
-Predict cancer mortality rates for US counties.
+# Cancer Dataset
+* Predict cancer mortality rates for US counties.
+* [Dataset link](https://drive.google.com/drive/u/0/folders/1RckOAqV-mExkvbyiuKut4fMr4zYB5aZm)
 ## Data Source
 * Cancer data - [cancer.gov](https://www.cancer.gov)
 * American Community Survey - [census.gov](https://www.census.gov)
