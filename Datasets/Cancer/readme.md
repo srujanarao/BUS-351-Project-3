@@ -1,4 +1,4 @@
-# Cancer dataset
+# Cancer Dataset
 Predict cancer mortality rates for US counties.
 ## Data Source
 * Cancer data - [cancer.gov](https://www.cancer.gov)
