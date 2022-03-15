@@ -1,5 +1,7 @@
 # BUS-351-Project-3
-* [Cancer dataset](https://github.com/srujanarao/BUS-351-Project-3/tree/main/Datasets/Cancer)
-* [Life expectancy dataset](https://github.com/srujanarao/BUS-351-Project-3/tree/main/Datasets/Life%20Expectancy)
+* [Cancer dataset](https://drive.google.com/drive/u/0/folders/1RckOAqV-mExkvbyiuKut4fMr4zYB5aZm)(does not have a time series component)
+* [Life expectancy dataset](https://drive.google.com/drive/u/0/folders/1A-sIud0IX6EqRh9hBZcLRnDLa_eX7hEO)
+* [NC Natural Gas Consumption Data](https://drive.google.com/drive/u/0/folders/1gljT4ixNMmetrQeyRBOrx2M3-INVIdUc)
+* [Wine Quality](https://drive.google.com/drive/u/0/folders/15X5AEATwFT22t6ubI-uZu7-e2hvberS3) (does not have a time series component)
 ## Other Time series Datasets
-[NC Natural Gas consumption, Daily website visitors](https://github.com/srujanarao/BUS-351-Project-3/tree/main/Datasets/Timeseries%20datasets)
+[Daily website visitors](https://github.com/srujanarao/BUS-351-Project-3/tree/main/Datasets/Timeseries%20datasets) 
